@@ -16,3 +16,5 @@ Imports:
 Depends: 
     R (>= 2.10)
 LazyData: true
+URL: https://github.com/padsInsper/exemploPacote
+BugReports: https://github.com/padsInsper/exemploPacote/issues
